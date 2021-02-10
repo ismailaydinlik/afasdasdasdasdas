@@ -1,0 +1,17 @@
+{
+  "name": "kedi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kedi.js",
+  "scripts": {
+    "start": "node kedi.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "coderlion",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^1.9.4"
+  }
+}
